@@ -1,79 +1,35 @@
 [
   {
     "id": "PREP-01",
-    "domaine": "préparation",
-    "titre": "Incohérence : poids de 66 kg marqué valeur d'exemple dans l'onglet Nutrition",
+    "domaine": "Nutrition",
+    "titre": "Décisions et saisies en attente de toi (nutrition, budget, bilans)",
     "statut": "à faire",
     "priorite": "cette semaine",
     "compte": "Moi",
-    "brief": "Saisir ton vrai poids dans l'onglet Nutrition. Toutes les cibles (3250 kcal, 132 g de protéines, 79 g de lipides, 502 g de glucides) et la courbe de poids visée en découlent.",
-    "etat": "Détectée à la lecture, rien modifié. Plan nutrition bloqué tant que le poids réel n'est pas donné.",
-    "date": "2026-11-20"
+    "brief": "1) Poids réel à saisir dans preparation.xlsx, onglet Nutrition (66 kg = valeur d'exemple) : toutes les cibles en découlent. 2) Rythme de prise de poids : 0,25 à 0,5 kg/semaine (objectif final plus bas) ou courbe actuelle de 0,7 kg/semaine (66 à 75 kg en 13 semaines). 3) Budget (dossier-pro.xlsx, onglet Budget) : coaching '100+200/mois' et nutrition '300/mois' sont en texte donc non comptés, total prévu 2000 € ; saisir des montants annuels en chiffres (budget détaillé dû le 2026-12-15). 4) Unité de vitesse de club : km/h (onglet Bilans) ou mph (Reels), même décision que VIS-12. 5) Aides et sponsors reçus 2026 : 'Chantaco' sans montant dans Bilans, donner le montant réel ou 0 (même sujet que VIS-14). 6) Horaires de séances à fournir pour remplir l'onglet Hebdo. 7) Bilans stats, technique, physique, mental à saisir avant le 2026-11-30.",
+    "etat": "Regroupe les anciennes PREP-01, 03, 04, 05, 06. Rien modifié côté fichiers. En attente de tes réponses.",
+    "date": "2026-11-21"
   },
   {
     "id": "PREP-02",
-    "domaine": "préparation",
+    "domaine": "Nutrition",
     "titre": "Incohérence : surplus calorique affiché 0,25 % alors que le calcul donne +25 %",
-    "statut": "à faire",
+    "statut": "bloqué",
     "priorite": "cette semaine",
     "compte": "Préparation",
-    "brief": "L'onglet Nutrition affiche 0.25 % de surplus, mais 3250 kcal pour 2600 de maintien = +25 % (+650 kcal/jour), pas un surplus modéré. Recalculer les cibles une fois le rythme de prise de poids tranché (PREP-03) et proposer les valeurs corrigées.",
-    "etat": "Détectée à la lecture. Je ne peux pas modifier le classeur (repo GolfPro2027), je livre les valeurs corrigées dans mon repo.",
-    "date": "2026-11-20"
-  },
-  {
-    "id": "PREP-03",
-    "domaine": "préparation",
-    "titre": "Incohérence : rythme de prise de poids visé vs courbe de l'onglet Nutrition",
-    "statut": "à faire",
-    "priorite": "cette semaine",
-    "compte": "Moi",
-    "brief": "L'onglet dit 0,25 à 0,5 kg/semaine (au-delà, prise moins propre), mais la courbe monte de 0,7 kg/semaine (66 kg au départ, 75 kg en semaine 13, soit 9 kg en 13 semaines). Choisir : rythme de 0,25 à 0,5 kg/semaine (objectif final plus bas) ou courbe actuelle (rythme à assumer).",
-    "etat": "Détectée à la lecture, rien modifié. En attente de ta décision.",
-    "date": "2026-11-20"
-  },
-  {
-    "id": "PREP-04",
-    "domaine": "préparation",
-    "titre": "Incohérence : budget prévu 2027 à 2000 € qui ignore coaching et nutrition",
-    "statut": "à faire",
-    "priorite": "cette semaine",
-    "compte": "Moi",
-    "brief": "Onglet Budget : coaching '100+200/mois' et nutrition '300/mois' sont saisis en texte, donc non comptés. Total prévu = 2000 € (cotisation seule), tournois et préparation physique vides. Saisir des montants annuels en chiffres. Le budget détaillé 2027 est dû le 2026-12-15 et détermine le montant à lever en sponsoring.",
-    "etat": "Détectée à la lecture, rien modifié.",
-    "date": "2026-11-20"
-  },
-  {
-    "id": "PREP-05",
-    "domaine": "préparation",
-    "titre": "Incohérence : vitesse de club en mph (vidéos, suivi) vs km/h (onglet Bilans)",
-    "statut": "à faire",
-    "priorite": "cette semaine",
-    "compte": "Moi",
-    "brief": "Trancher l'unité avant de saisir les bilans techniques (échéance 2026-11-30). L'onglet Bilans est en km/h, les textes des Reels en mph (113 → 118). Même sujet que VIS-12 chez Visibilité : une seule décision pour les deux.",
-    "etat": "Détectée à la lecture, rien modifié. Aligné avec VIS-12.",
-    "date": "2026-11-20"
-  },
-  {
-    "id": "PREP-06",
-    "domaine": "préparation",
-    "titre": "Incohérence : 'Chantaco' saisi dans une cellule en euros (Aides et sponsors reçus 2026)",
-    "statut": "à faire",
-    "priorite": "cette semaine",
-    "compte": "Moi",
-    "brief": "Onglet Bilans : la ligne contient un nom, sans montant, alors que le suivi Instagram indique aucun sponsor. Donner le montant réel (ou 0) : il sert au bilan budget 2026 (échéance 2026-11-30), au reste à charge et au coût moyen par tournoi. Même sujet que VIS-14.",
-    "etat": "Détectée à la lecture, rien modifié. Aligné avec VIS-14.",
-    "date": "2026-11-20"
+    "brief": "L'onglet Nutrition affiche 0.25 % de surplus, mais 3250 kcal pour 2600 de maintien = +25 % (+650 kcal/jour), pas un surplus modéré. Recalculer les cibles une fois le poids réel et le rythme de prise de poids tranchés (PREP-01) et livrer les valeurs corrigées.",
+    "etat": "Bloquée : attend les points 1 et 2 de PREP-01 (poids réel, rythme).",
+    "date": "2026-11-21"
   },
   {
     "id": "PREP-07",
-    "domaine": "préparation",
+    "domaine": "Nutrition",
     "titre": "Incohérence : échéance nutrition (2026-12-15) après le début du suivi (2026-12-14)",
-    "statut": "à faire",
+    "statut": "bloqué",
     "priorite": "plus tard",
     "compte": "Préparation",
     "brief": "La checklist fixe 'Mise en place nutrition prise de masse' au 2026-12-15, mais la semaine 1 du suivi nutrition démarre le 2026-12-14. Livrer le plan nutrition avant le 2026-12-14 et décaler soit l'échéance, soit la date de la semaine 1.",
-    "etat": "Détectée à la lecture, rien modifié. Plan à livrer avant le 2026-12-14.",
-    "date": "2026-11-20"
+    "etat": "Bloquée : le plan nutrition dépend de PREP-01 (poids réel, rythme) et de PREP-02. À livrer avant le 2026-12-14.",
+    "date": "2026-11-21"
   }
 ]
