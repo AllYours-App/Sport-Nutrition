@@ -1,6 +1,6 @@
 # Programme d'entraînement : prise de masse et de force pour le golf
 
-Mis à jour le 2026-11-21. Durée : 13 semaines, de la semaine 1 (2026-12-14) à la semaine 13 (2027-03-08), calée sur le plan nutrition (66 kg vers 75 kg).
+Mis à jour le 2026-11-21. Durée : 13 semaines, de la semaine 1 (lundi 2026-11-23) à la semaine 13 (lundi 2027-02-15), calée sur le plan nutrition (66 kg vers 75 kg en 3 mois). Premier tournoi : mi-février, date exacte à confirmer (semaine 12 ou 13). Pas de golf pendant les 2 premières semaines.
 
 ## Ce que j'ai changé par rapport à ton programme
 - Mobilité absente : ajout d'un échauffement de 10 minutes avant chaque séance et de 2 séances de mobilité de 20 minutes par semaine.
@@ -12,7 +12,21 @@ Mis à jour le 2026-11-21. Durée : 13 semaines, de la semaine 1 (2026-12-14) à
 - Progression : règles écrites et semaines de décharge en S4, S8 et S12 (tu n'en avais pas).
 - Ordre des séances : jamais deux séances jambes à moins de 48 h d'intervalle (J1, J3 et J5 sont des séances jambes).
 
-## Quota hebdomadaire (horaires non fixes)
+## Calendrier d'hiver
+| Semaines | Lundi de départ | Phase | Golf |
+|---|---|---|---|
+| S1 à S2 | 23 nov, 30 nov | Salle seule : base masse | Aucun (pause de 2 semaines) |
+| S3 | 7 déc | Base masse, reprise du golf | Reprise progressive : 2 séances de practice de 45 à 60 min, pas de parcours |
+| S4 | 14 déc | Décharge | Quota complet |
+| S5 à S7 | 21 déc, 28 déc, 4 jan | Force | Quota complet |
+| S8 | 11 jan | Décharge | Quota complet |
+| S9 à S11 | 18 jan, 25 jan, 1 fév | Force et vitesse | Quota complet, parcours en conditions de tournoi (test de la routine) |
+| S12 | 8 fév | Décharge et affûtage | Quota allégé, parcours de reconnaissance si possible |
+| S13 | 15 fév | Premier tournoi (date à confirmer) | Selon le calendrier |
+
+S1 et S2 : salle 5, mobilité 3, golf 0. Pour profiter du temps libre, ajoute 1 série sur chaque exercice B et C ; retire-la à partir de S3.
+
+## Quota hebdomadaire (horaires non fixes), à partir de S3
 | Type | Cible par semaine | Plancher | Durée |
 |---|---|---|---|
 | Salle (J1 à J5) | 5 | 3 (J1, J2, J5) | 60 à 75 min |
@@ -20,14 +34,25 @@ Mis à jour le 2026-11-21. Durée : 13 semaines, de la semaine 1 (2026-12-14) à
 | Golf : practice technique et petit jeu / putting | 3 | 2 | 60 à 90 min (provisoire) |
 | Golf : parcours | 1 | 0 | 9 ou 18 trous (provisoire) |
 
-Le quota golf est provisoire : ajuste-le, je recale le reste.
+Le quota golf est provisoire : ajuste-le, je recale le reste. Aux semaines S1 et S2, golf à 0 et mobilité à 3 (Mob A, Mob B, plus une au choix).
 
 Règles :
 - Si tu ne peux faire que 3 séances de salle : J1, J2, J5. Pour une 4e : J3. Pas de rattrapage en doublant deux séances.
 - Golf technique avant la salle, ou 3 h d'écart minimum.
 - Au moins 48 h entre deux séances jambes.
 
-## Semaine type (à copier dans l'onglet Hebdo)
+## Semaine type S1 et S2 (sans golf)
+| Jour | Physique | Technique | Jeu | Récupération |
+|---|---|---|---|---|
+| Lundi | J1 jambes force | | | |
+| Mardi | J2 haut du corps | | | Mob B (15 min, au choix) |
+| Mercredi | | | | Mob A (20 min), marche |
+| Jeudi | J3 jambes unilatéral | | | |
+| Vendredi | J4 haut du corps | | | |
+| Samedi | J5 puissance | | | |
+| Dimanche | | | | Mob B (20 min) |
+
+## Semaine type à partir de S3 (à copier dans l'onglet Hebdo)
 | Jour | Physique | Technique | Jeu | Récupération |
 |---|---|---|---|---|
 | Lundi | J1 jambes force | Practice technique (avant la salle) | | |
@@ -38,7 +63,7 @@ Règles :
 | Samedi | J5 puissance | | | |
 | Dimanche | | | Parcours (9 ou 18 trous) | Mob B (20 min) |
 
-## Semaine de tournoi (à affiner à la publication du calendrier)
+## Semaine de tournoi (premier tournoi mi-février, date exacte à confirmer)
 - J-3 : dernière séance jambes (J1 ou J3), sans aller à l'échec.
 - J-2 : haut du corps léger (J2 ou J4 à 2 séries par exercice).
 - J-1 : mobilité 20 min uniquement.
@@ -53,13 +78,13 @@ Règles :
 
 | Semaines | Bloc | Intensité |
 |---|---|---|
-| S1 à S3 | Base masse | 2 à 3 reps en réserve |
-| S4 | Décharge | charges -10 %, 2 séries de moins par exercice (minimum 2) |
-| S5 à S7 | Force | 2 reps en réserve, charges en hausse |
-| S8 | Décharge | idem S4 |
-| S9 à S11 | Force et vitesse | 1 à 2 reps en réserve ; J5 : 5 séries de box jumps |
-| S12 | Décharge | idem S4 |
-| S13 | Tests | séances légères, tests ci-dessous |
+| S1 à S3 (23 nov au 13 déc) | Base masse | 2 à 3 reps en réserve |
+| S4 (14 au 20 déc) | Décharge | charges -10 %, 2 séries de moins par exercice (minimum 2) |
+| S5 à S7 (21 déc au 10 jan) | Force | 2 reps en réserve, charges en hausse |
+| S8 (11 au 17 jan) | Décharge | idem S4 |
+| S9 à S11 (18 jan au 7 fév) | Force et vitesse | 1 à 2 reps en réserve ; J5 : 5 séries de box jumps |
+| S12 (8 au 14 fév) | Décharge et affûtage | idem S4 |
+| S13 (15 au 21 fév) | Tournoi | séances légères, dernière séance jambes à J-3 |
 
 ## Échauffement de 10 minutes (avant chaque séance)
 - Bas du corps (J1, J3) : transitions 90/90 2x6 par côté, knee-to-wall 2x10 par cheville, world's greatest stretch 2x5 par côté, pont fessier 2x10.
@@ -125,12 +150,14 @@ Les charges sont celles que tu m'as données. Là où il n'y en a pas, démarre 
 - Mob A (hanches et bas du corps) : 90/90 avec lift-offs 3x5 par côté, couch stretch 2x45 s par côté, rock-back adducteurs 2x10, pigeon 2x45 s par côté, knee-to-wall 2x10 plus étirement des mollets 45 s.
 - Mob B (thorax, épaules, poignets) : open book 3x8 par côté, thread the needle 2x8 par côté, extension thoracique sur rouleau 2x10, étirement postérieur d'épaule 2x40 s par côté, étirement des lats 2x45 s, poignets (flexion et extension) 2x10 plus étirements 2x30 s.
 
-## Tests (S1 et S13, à reporter dans l'onglet Bilans)
-- Poids du matin et masse grasse.
-- Back squat et développé couché à 3 reps maximum.
-- Vitesse de club driver en mph (environ 113 aujourd'hui).
-- Saut vertical ou box jump (hauteur).
-- Mobilité : rotation thoracique assise et rotation interne de hanche 90/90, chacune notée sur 10.
-- Douleurs et blessures.
+## Tests (à reporter dans l'onglet Bilans)
+- S1 (23 nov) : poids du matin, masse grasse, mobilité (rotation thoracique assise et rotation interne de hanche 90/90, chacune notée sur 10), douleurs. Les charges de départ sont celles de ton programme actuel.
+- S3 (dès la reprise du golf) : vitesse de club driver en mph (environ 113 aujourd'hui).
+- S11 : back squat et développé couché à 3 reps maximum, dans J1 et J2 à la place de la série lourde.
+- S12 : poids du matin, masse grasse, saut vertical ou box jump (hauteur), mobilité, vitesse de club en mph, douleurs.
+
+## Points de calendrier à avancer
+- Fitting matériel (onglet Matériel, deadline 2027-02-28) : à avancer avant le premier tournoi, fin janvier (S10), après 2 mois de prise de masse (poids visé environ 72,9 kg). Compte les délais de commande.
+- Routine de tournoi (deadline 2027-01-31) : à valider avant mi-février. Le test en conditions de tournoi (objectif initial 2027-03-05) se fait dès le premier tournoi.
 
 Douleur qui persiste plus de 48 h sur l'épaule, le dos ou le genou : réduis la charge de l'exercice concerné et parles-en à ton kiné ou coach.
