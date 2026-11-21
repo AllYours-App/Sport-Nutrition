@@ -31,5 +31,16 @@
     "brief": "La checklist fixe 'Mise en place nutrition prise de masse' au 2026-12-15, mais la semaine 1 du suivi nutrition démarre le 2026-12-14. Livrer le plan nutrition avant le 2026-12-14 et décaler soit l'échéance, soit la date de la semaine 1.",
     "etat": "Plan nutrition livré le 2026-11-21 (plan-nutrition.md), avant le début du suivi du 2026-12-14.",
     "date": "2026-11-21"
+  },
+  {
+    "id": "PREP-08",
+    "domaine": "Sport",
+    "titre": "Programme d'entraînement salle 13 semaines et quota hebdomadaire",
+    "statut": "en cours",
+    "priorite": "cette semaine",
+    "compte": "Préparation",
+    "brief": "Améliorer le programme J1 à J5 de l'utilisateur (prise de poids et de force, mobilité, golf) et fixer un quota de séances par semaine (horaires non fixes). Livrable : programme-entrainement.md.",
+    "etat": "En cours d'écriture le 2026-11-21.",
+    "date": "2026-11-21"
   }
 ]
