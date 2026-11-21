@@ -53,5 +53,16 @@
     "brief": "Premier tournoi mi-février (date exacte à confirmer) et pas de golf jusqu'au 2026-12-06 : recaler le programme salle et le plan nutrition (semaine 1 le 2026-11-23, semaine 13 le 2027-02-15), prévoir la reprise du golf et l'affûtage avant le tournoi. Livrables : programme-entrainement.md et plan-nutrition.md à jour.",
     "etat": "Livré le 2026-11-21 : programme-entrainement.md (calendrier d'hiver, S1-S2 sans golf, reprise du golf en S3, affûtage S12, tests, fitting à avancer) et plan-nutrition.md (semaine 1 le 2026-11-23).",
     "date": "2026-11-21"
+  },
+  {
+    "id": "PREP-10",
+    "domaine": "Nutrition",
+    "titre": "Mise à jour de l'onglet Nutrition de preparation.xlsx",
+    "statut": "en cours",
+    "priorite": "cette semaine",
+    "compte": "Préparation",
+    "brief": "Saisir dans l'onglet Nutrition les valeurs de plan-nutrition.md : date de la semaine 1 au 2026-11-23, surplus 29 %, rythme 0,7 kg/semaine, remarques. Modification faite directement dans le classeur de mon repo, sans toucher aux autres onglets.",
+    "etat": "En cours le 2026-11-21.",
+    "date": "2026-11-21"
   }
 ]
