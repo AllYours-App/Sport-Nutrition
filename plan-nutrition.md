@@ -1,6 +1,6 @@
 # Plan nutrition : prise de masse 66 kg vers 75 kg
 
-Mis à jour le 2026-11-21. Départ : semaine 1 le 2026-12-14 (date de l'onglet Nutrition). Arrivée : semaine 13, le 2027-03-08.
+Mis à jour le 2026-11-21. Départ : semaine 1 le 2026-11-23 (change la date de la semaine 1 dans l'onglet Nutrition, les suivantes s'incrémentent de 7 jours). Arrivée : semaine 13, le 2027-02-15, soit 3 mois après le 2026-11-21. Premier tournoi à mi-février : tu y arrives au poids visé de 75 kg.
 
 ## Hypothèses
 - Poids de départ : 66 kg (confirmé). Objectif : 75 kg en 13 semaines, soit +9 kg, environ 0,7 kg/semaine.
