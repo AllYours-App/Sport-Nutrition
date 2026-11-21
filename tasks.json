@@ -42,5 +42,16 @@
     "brief": "Améliorer le programme J1 à J5 de l'utilisateur (prise de poids et de force, mobilité, golf) et fixer un quota de séances par semaine (horaires non fixes). Livrable : programme-entrainement.md.",
     "etat": "Livré le 2026-11-21 dans programme-entrainement.md : séances J1 à J5 améliorées, mobilité, quota (5 salle, 2 mobilité, 3 golf technique, 1 parcours, golf provisoire), semaine type, tournoi, progression, tests.",
     "date": "2026-11-21"
+  },
+  {
+    "id": "PREP-09",
+    "domaine": "Sport",
+    "titre": "Plan d'entraînement d'hiver recalé : départ le 23 novembre, premier tournoi mi-février, pause golf de 2 semaines",
+    "statut": "en cours",
+    "priorite": "cette semaine",
+    "compte": "Préparation",
+    "brief": "Premier tournoi mi-février (date exacte à confirmer) et pas de golf jusqu'au 2026-12-06 : recaler le programme salle et le plan nutrition (semaine 1 le 2026-11-23, semaine 13 le 2027-02-15), prévoir la reprise du golf et l'affûtage avant le tournoi. Livrables : programme-entrainement.md et plan-nutrition.md à jour.",
+    "etat": "En cours le 2026-11-21.",
+    "date": "2026-11-21"
   }
 ]
