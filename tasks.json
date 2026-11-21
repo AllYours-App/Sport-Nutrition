@@ -6,8 +6,8 @@
     "statut": "à faire",
     "priorite": "cette semaine",
     "compte": "Moi",
-    "brief": "Reçu : poids réel 66 kg, objectif 75 kg en 3 mois ; unité de vitesse de club en mph (environ 113 mph) ; budget à faire quand les sponsors seront connus ; montant sponsors mis à jour au fil du temps. Reste à faire : 1) Horaires de séances à fournir pour remplir l'onglet Hebdo. 2) Bilans stats, technique, physique, mental à saisir avant le 2026-11-30, avec la vitesse de club driver en mph (113 environ) : l'onglet Bilans est en km/h, passer l'unité à mph (vitesse de balle comprise, pour rester cohérent). 3) Dans preparation.xlsx, onglet Nutrition : retirer la mention 'valeur d'exemple' sur le poids et saisir les valeurs corrigées de plan-nutrition.md. En attente, aucune action maintenant : budget détaillé 2027 (montants annuels en chiffres, coaching et nutrition aujourd'hui en texte donc non comptés, à saisir quand les sponsors sont connus) et montant sponsors 2026 (ligne 'Chantaco' sans montant dans Bilans, à actualiser).",
-    "etat": "Poids, rythme, unité (mph) et position sur budget et sponsors reçus le 2026-11-21. Restent horaires, bilans et saisie Nutrition. Unité mph alignée avec VIS-12.",
+    "brief": "Reçu : poids 66 kg, objectif 75 kg en 3 mois ; unité de vitesse de club en mph (environ 113 mph) ; budget à faire quand les sponsors seront connus ; montant sponsors mis à jour au fil du temps ; horaires de séances non fixes (quota par semaine). Reste à faire : 1) Valider ou ajuster le quota golf provisoire (3 séances practice et petit jeu, 1 parcours par semaine) dans programme-entrainement.md. 2) Copier la semaine type dans l'onglet Hebdo de preparation.xlsx. 3) Bilans stats, technique, physique, mental à saisir avant le 2026-11-30, avec la vitesse de club driver en mph (113 environ) : l'onglet Bilans est en km/h, passer l'unité à mph (vitesse de balle comprise). 4) Dans preparation.xlsx, onglet Nutrition : retirer la mention 'valeur d'exemple' sur le poids et saisir les valeurs corrigées de plan-nutrition.md. En attente, aucune action maintenant : budget détaillé 2027 (montants annuels en chiffres, coaching et nutrition aujourd'hui en texte donc non comptés, à saisir quand les sponsors sont connus) et montant sponsors 2026 (ligne 'Chantaco' sans montant dans Bilans, à actualiser).",
+    "etat": "Quota golf à valider, puis Hebdo, Bilans et Nutrition à saisir. Unité mph alignée avec VIS-12.",
     "date": "2026-11-21"
   },
   {
@@ -36,11 +36,11 @@
     "id": "PREP-08",
     "domaine": "Sport",
     "titre": "Programme d'entraînement salle 13 semaines et quota hebdomadaire",
-    "statut": "en cours",
+    "statut": "fait",
     "priorite": "cette semaine",
     "compte": "Préparation",
     "brief": "Améliorer le programme J1 à J5 de l'utilisateur (prise de poids et de force, mobilité, golf) et fixer un quota de séances par semaine (horaires non fixes). Livrable : programme-entrainement.md.",
-    "etat": "En cours d'écriture le 2026-11-21.",
+    "etat": "Livré le 2026-11-21 dans programme-entrainement.md : séances J1 à J5 améliorées, mobilité, quota (5 salle, 2 mobilité, 3 golf technique, 1 parcours, golf provisoire), semaine type, tournoi, progression, tests.",
     "date": "2026-11-21"
   }
 ]
