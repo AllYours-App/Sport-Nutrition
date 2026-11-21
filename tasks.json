@@ -6,8 +6,8 @@
     "statut": "à faire",
     "priorite": "cette semaine",
     "compte": "Moi",
-    "brief": "Reçu : poids 66 kg, objectif 75 kg en 3 mois ; unité de vitesse de club en mph (environ 113 mph) ; budget à faire quand les sponsors seront connus ; montant sponsors mis à jour au fil du temps ; horaires de séances non fixes (quota par semaine) ; premier tournoi mi-février ; pas de golf jusqu'au 2026-12-06. Reste à faire : 1) Dans preparation.xlsx, onglet Nutrition : mettre la date de la semaine 1 au 2026-11-23 (au lieu du 2026-12-14), saisir les valeurs corrigées de plan-nutrition.md, retirer la mention 'valeur d'exemple' sur le poids. 2) Valider ou ajuster le quota golf provisoire à partir de S3, le 2026-12-07 (3 séances practice et petit jeu, 1 parcours par semaine) dans programme-entrainement.md. 3) Copier la semaine type dans l'onglet Hebdo (version S1 et S2 sans golf, puis version à partir de S3). 4) Bilans stats, technique, physique, mental à saisir avant le 2026-11-30, avec la vitesse de club driver en mph (113 environ) : l'onglet Bilans est en km/h, passer l'unité à mph (vitesse de balle comprise). 5) Onglet Matériel : avancer la deadline du fitting avant le premier tournoi (fin janvier au lieu du 2027-02-28). 6) Donner la date exacte du premier tournoi dès qu'elle est connue, pour caler S12 et S13. En attente, aucune action maintenant : budget détaillé 2027 (montants annuels en chiffres, coaching et nutrition aujourd'hui en texte donc non comptés, à saisir quand les sponsors sont connus) et montant sponsors 2026 (ligne 'Chantaco' sans montant dans Bilans, à actualiser).",
-    "etat": "Premier tournoi mi-février et pause golf reçus le 2026-11-21. Restent Nutrition (date S1), quota golf, Hebdo, Bilans, Matériel et date du tournoi.",
+    "brief": "Reçu : poids 66 kg, objectif 75 kg en 3 mois ; unité de vitesse de club en mph (environ 113 mph) ; budget à faire quand les sponsors seront connus ; montant sponsors mis à jour au fil du temps ; horaires de séances non fixes (quota par semaine) ; premier tournoi mi-février ; pas de golf jusqu'au 2026-12-06 ; quota golf validé. Onglet Nutrition mis à jour par Préparation (PREP-10). Reste à faire : 1) Concevoir les semaines types dans l'onglet Hebdo d'ici le 2026-12-07 (propositions dans programme-entrainement.md : version S1 et S2 sans golf, puis version à partir de S3). 2) Bilans stats, technique, physique, mental à saisir avant le 2026-11-30, avec la vitesse de club driver en mph (113 environ) : l'onglet Bilans est en km/h, passer l'unité à mph (vitesse de balle comprise). 3) Onglet Matériel : avancer la deadline du fitting avant le premier tournoi (fin janvier au lieu du 2027-02-28). 4) Donner la date exacte du premier tournoi dès qu'elle est connue, pour caler S12 et S13. En attente, aucune action maintenant : budget détaillé 2027 (montants annuels en chiffres, coaching et nutrition aujourd'hui en texte donc non comptés, à saisir quand les sponsors sont connus) et montant sponsors 2026 (ligne 'Chantaco' sans montant dans Bilans, à actualiser).",
+    "etat": "Nutrition faite par Préparation, quota golf validé. Restent Hebdo (d'ici le 2026-12-07), Bilans (d'ici le 2026-11-30), Matériel et date du tournoi.",
     "date": "2026-11-21"
   },
   {
@@ -58,11 +58,11 @@
     "id": "PREP-10",
     "domaine": "Nutrition",
     "titre": "Mise à jour de l'onglet Nutrition de preparation.xlsx",
-    "statut": "en cours",
+    "statut": "fait",
     "priorite": "cette semaine",
     "compte": "Préparation",
     "brief": "Saisir dans l'onglet Nutrition les valeurs de plan-nutrition.md : date de la semaine 1 au 2026-11-23, surplus 29 %, rythme 0,7 kg/semaine, remarques. Modification faite directement dans le classeur de mon repo, sans toucher aux autres onglets.",
-    "etat": "En cours le 2026-11-21.",
+    "etat": "Onglet Nutrition mis à jour le 2026-11-21 : poids 66 kg confirmé, surplus 29 % (3354 kcal), rythme 0,7 kg/semaine, semaine 1 au 2026-11-23 (semaine 13 le 2027-02-15). Autres onglets inchangés.",
     "date": "2026-11-21"
   }
 ]
