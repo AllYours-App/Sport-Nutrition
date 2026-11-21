@@ -14,22 +14,22 @@
     "id": "PREP-02",
     "domaine": "Nutrition",
     "titre": "Incohérence : surplus calorique affiché 0,25 % alors que le calcul donne +25 %",
-    "statut": "en cours",
+    "statut": "fait",
     "priorite": "cette semaine",
     "compte": "Préparation",
     "brief": "L'onglet Nutrition affiche 0.25 % de surplus, mais 3250 kcal pour 2600 de maintien = +25 % (+650 kcal/jour), pas un surplus modéré. Recalculer les cibles une fois le poids réel et le rythme de prise de poids tranchés (PREP-01) et livrer les valeurs corrigées.",
-    "etat": "Débloquée le 2026-11-21 (poids 66 kg, objectif 75 kg en 13 semaines) : plan en cours d'écriture.",
+    "etat": "Valeurs corrigées livrées dans plan-nutrition.md (surplus +29 %, 3354 kcal, 132 g protéines, 79,2 g lipides, 528 g glucides).",
     "date": "2026-11-21"
   },
   {
     "id": "PREP-07",
     "domaine": "Nutrition",
     "titre": "Incohérence : échéance nutrition (2026-12-15) après le début du suivi (2026-12-14)",
-    "statut": "en cours",
+    "statut": "fait",
     "priorite": "plus tard",
     "compte": "Préparation",
     "brief": "La checklist fixe 'Mise en place nutrition prise de masse' au 2026-12-15, mais la semaine 1 du suivi nutrition démarre le 2026-12-14. Livrer le plan nutrition avant le 2026-12-14 et décaler soit l'échéance, soit la date de la semaine 1.",
-    "etat": "Débloquée le 2026-11-21 (poids 66 kg, objectif 75 kg en 13 semaines) : plan en cours d'écriture.",
+    "etat": "Plan nutrition livré le 2026-11-21 (plan-nutrition.md), avant le début du suivi du 2026-12-14.",
     "date": "2026-11-21"
   }
 ]
