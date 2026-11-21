@@ -6,30 +6,30 @@
     "statut": "à faire",
     "priorite": "cette semaine",
     "compte": "Moi",
-    "brief": "1) Poids réel à saisir dans preparation.xlsx, onglet Nutrition (66 kg = valeur d'exemple) : toutes les cibles en découlent. 2) Rythme de prise de poids : 0,25 à 0,5 kg/semaine (objectif final plus bas) ou courbe actuelle de 0,7 kg/semaine (66 à 75 kg en 13 semaines). 3) Budget (dossier-pro.xlsx, onglet Budget) : coaching '100+200/mois' et nutrition '300/mois' sont en texte donc non comptés, total prévu 2000 € ; saisir des montants annuels en chiffres (budget détaillé dû le 2026-12-15). 4) Unité de vitesse de club : km/h (onglet Bilans) ou mph (Reels), même décision que VIS-12. 5) Aides et sponsors reçus 2026 : 'Chantaco' sans montant dans Bilans, donner le montant réel ou 0 (même sujet que VIS-14). 6) Horaires de séances à fournir pour remplir l'onglet Hebdo. 7) Bilans stats, technique, physique, mental à saisir avant le 2026-11-30.",
-    "etat": "Regroupe les anciennes PREP-01, 03, 04, 05, 06. Rien modifié côté fichiers. En attente de tes réponses.",
+    "brief": "Reçu : poids réel 66 kg, objectif 75 kg en 3 mois (13 semaines, soit environ 0,7 kg/semaine) : points 1 et 2 réglés. Reste à faire : 3) Budget (dossier-pro.xlsx, onglet Budget) : coaching '100+200/mois' et nutrition '300/mois' sont en texte donc non comptés, total prévu 2000 € ; saisir des montants annuels en chiffres (budget détaillé dû le 2026-12-15). 4) Unité de vitesse de club : km/h (onglet Bilans) ou mph (Reels), même décision que VIS-12. 5) Aides et sponsors reçus 2026 : 'Chantaco' sans montant dans Bilans, donner le montant réel ou 0 (même sujet que VIS-14). 6) Horaires de séances à fournir pour remplir l'onglet Hebdo. 7) Bilans stats, technique, physique, mental à saisir avant le 2026-11-30. 8) Dans preparation.xlsx, onglet Nutrition : retirer la mention 'valeur d'exemple' sur le poids et saisir les valeurs corrigées de plan-nutrition.md.",
+    "etat": "Poids et rythme reçus le 2026-11-21. Restent les points 3 à 8.",
     "date": "2026-11-21"
   },
   {
     "id": "PREP-02",
     "domaine": "Nutrition",
     "titre": "Incohérence : surplus calorique affiché 0,25 % alors que le calcul donne +25 %",
-    "statut": "bloqué",
+    "statut": "en cours",
     "priorite": "cette semaine",
     "compte": "Préparation",
     "brief": "L'onglet Nutrition affiche 0.25 % de surplus, mais 3250 kcal pour 2600 de maintien = +25 % (+650 kcal/jour), pas un surplus modéré. Recalculer les cibles une fois le poids réel et le rythme de prise de poids tranchés (PREP-01) et livrer les valeurs corrigées.",
-    "etat": "Bloquée : attend les points 1 et 2 de PREP-01 (poids réel, rythme).",
+    "etat": "Débloquée le 2026-11-21 (poids 66 kg, objectif 75 kg en 13 semaines) : plan en cours d'écriture.",
     "date": "2026-11-21"
   },
   {
     "id": "PREP-07",
     "domaine": "Nutrition",
     "titre": "Incohérence : échéance nutrition (2026-12-15) après le début du suivi (2026-12-14)",
-    "statut": "bloqué",
+    "statut": "en cours",
     "priorite": "plus tard",
     "compte": "Préparation",
     "brief": "La checklist fixe 'Mise en place nutrition prise de masse' au 2026-12-15, mais la semaine 1 du suivi nutrition démarre le 2026-12-14. Livrer le plan nutrition avant le 2026-12-14 et décaler soit l'échéance, soit la date de la semaine 1.",
-    "etat": "Bloquée : le plan nutrition dépend de PREP-01 (poids réel, rythme) et de PREP-02. À livrer avant le 2026-12-14.",
+    "etat": "Débloquée le 2026-11-21 (poids 66 kg, objectif 75 kg en 13 semaines) : plan en cours d'écriture.",
     "date": "2026-11-21"
   }
 ]
