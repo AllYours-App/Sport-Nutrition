@@ -1,6 +1,6 @@
 # Plan nutrition : prise de masse 66 kg vers 75 kg
 
-Mis à jour le 2026-11-21. Départ : semaine 1 le 2026-11-23 (change la date de la semaine 1 dans l'onglet Nutrition, les suivantes s'incrémentent de 7 jours). Arrivée : semaine 13, le 2027-02-15, soit 3 mois après le 2026-11-21. Premier tournoi à mi-février : tu y arrives au poids visé de 75 kg.
+Mis à jour le 2026-11-21. Départ : semaine 1 le 2026-11-23 (date déjà saisie dans l'onglet Nutrition, les suivantes s'incrémentent de 7 jours). Arrivée : semaine 13, le 2027-02-15, soit 3 mois après le 2026-11-21. Premier tournoi à mi-février : tu y arrives au poids visé de 75 kg.
 
 ## Hypothèses
 - Poids de départ : 66 kg (confirmé). Objectif : 75 kg en 13 semaines, soit +9 kg, environ 0,7 kg/semaine.
@@ -8,10 +8,10 @@ Mis à jour le 2026-11-21. Départ : semaine 1 le 2026-11-23 (change la date de 
 - Rythme choisi : 0,7 kg/semaine, au-dessus de la fourchette de 0,25 à 0,5 kg/semaine annoncée dans l'onglet. Une part plus élevée de la prise sera de la graisse : suis la masse grasse dans l'onglet Bilans.
 
 ## Correction du surplus (PREP-02)
-- Ancien affichage : 0.25 % ; la valeur est en réalité +25 % (3250 kcal pour 2600 de maintien, soit +650 kcal/jour), ce qui donne environ 0,6 kg/semaine : insuffisant pour 0,7.
-- Nouveau surplus : +29 % (environ +750 kcal/jour). Dans la cellule, saisis 0,29 au format pourcentage, pas 0.29 %.
+- Ancienne valeur : +25 % (3250 kcal pour 2600 de maintien, soit +650 kcal/jour), ce qui donne environ 0,6 kg/semaine : insuffisant pour 0,7.
+- Nouveau surplus : +29 % (environ +750 kcal/jour).
 
-## Cibles par jour (à saisir dans l'onglet Nutrition)
+## Cibles par jour (déjà saisies dans l'onglet Nutrition)
 | Paramètre | Valeur |
 |---|---|
 | Poids actuel | 66 kg |
